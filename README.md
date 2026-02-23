@@ -1,5 +1,7 @@
 # CryptoFisc
 
+**Live:** https://cryptofisc-lcmtu5w85-nbdaniels-projects.vercel.app
+
 Web app for Romanian accountants to process Binance trade history CSVs.
 
 ## Features
