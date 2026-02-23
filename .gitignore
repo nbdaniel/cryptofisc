@@ -5,6 +5,9 @@ node_modules/
 .next/
 out/
 
+# sample / test data
+sample_trades.csv
+
 # misc
 .env
 .env.local
