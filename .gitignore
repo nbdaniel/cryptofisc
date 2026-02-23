@@ -8,6 +8,11 @@ out/
 # sample / test data
 sample_trades.csv
 
+# scaffolding artifacts
+install.bat
+install_output.txt
+install_err.txt
+
 # misc
 .env
 .env.local
